@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="100dp"
     android:layout_marginBottom="5dp"
-    android:padding="5dp"
-    >
+    android:background="#720000"
+    android:padding="5dp">
 
     <TextView
         android:id="@+id/nom_prenom"
@@ -17,7 +17,7 @@
         android:paddingTop="2sp"
         android:paddingBottom="2sp"
         android:text="NOM Prenom"
-        android:textColor="@android:color/holo_blue_bright"
+        android:textColor="#FFFFFF"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
